@@ -1,0 +1,20 @@
+
+[
+    {
+      "role": "Data Analyst",
+      "organisation": "SEBPO",
+      "startDate": "June, 2023",
+      "endDate": "July,2024",
+      "experiences": ["Data Analysis", "Due Diligence"],
+      "imageSrc": "history/sebpo.png"
+    },
+    {
+      "role": "Data Entry Operator",
+      "organisation": "Golden Harvest infoTech",
+      "startDate": "Aug, 2022",
+      "endDate": "Dec, 2022",
+      "experiences": ["Data Entry", "Data Analysis"],
+      "imageSrc": "history/goldenharvest.png"
+    }
+  
+  ]
