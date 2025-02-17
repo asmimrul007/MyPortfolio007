@@ -1,10 +1,30 @@
 [
     {
-      "title": "Project A",
+      "title": "Simple Clock",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "description": "This is a project made to learn initial coding.",
+      "skills": ["js", "HTML", "Css"],
+      "demo": "https://digitalclockjs01.netlify.app/",
+      "source": "https://github.com/asmimrul007/DigitalClockWithJS"
+    },
+  
+
+  
+    {
+      "title": "Simple Landing page",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn design principle.",
+      "skills": ["js", "HTML", "Css"],
+      "demo": "https://darling-elf-459408.netlify.app/",
+      "source": "https://github.com/asmimrul007/easybanklandinpage-frontendmentor"
+    },
+
+    {
+      "title": "Landing page design",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn design principle.",
+      "skills": ["js", "HTML", "Css"],
+      "demo": "https://glistening-sorbet-9932c1.netlify.app/",
+      "source": "https://github.com/asmimrul007?tab=repositories"
     }
   ]
